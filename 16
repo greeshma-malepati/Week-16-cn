@@ -1,0 +1,25 @@
+AIM: Do the following using NS2 Simulator
+i. NS2 Simulator-Introduction
+ii. Simulate to Find the Number of Packets Dropped
+iii. Simulate to Find the Number of Packets Dropped by TCP/UDP
+iv. Simulate to Find the Number of Packets Dropped due to Congestion
+v. Simulate to Compare Data Rate& Throughput.
+Description:
+ i) NS2 Simulator-Introduction
+NS2 stands for Network Simulator Version
+It is an open-source event-driven simulator designed specifically for research in computer communication networks.
+Features of NS2
+It is a discrete event simulator for networking
+It provides substantial support to simulate bunch of protocols like TCP, FTP, UDP, https and
+It simulates wired and wireless
+Uses TCL as its scripting
+Network simulation is an important tool in developing, testing and evaluating network protocols. Simulation can be used without the target physical hardware, making it economical and practical for almost any scale of network topology and setup.
+GETTING STARTED
+Setting up the environment
+A user using the NCTUns in single machine mode, needs to do the following steps before he/she starts the GUI program:
+Set up environment variables:
+Before the user can run up the dispatcher, coordinator, or NCTUns GUI program he/she must set up the NCTUNSHOME environment variable.
+Start up the dispatcher on terminal
+Start up the coordinator on terminal
+Start up the nctunsclient on terminal
+After the above steps are followed, the starting screen of NCTUns disappears and the user is presented with the working window as shown below:
